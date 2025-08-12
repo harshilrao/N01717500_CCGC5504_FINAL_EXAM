@@ -1,0 +1,5 @@
+spec:
+  ports:
+  - name: metrics
+    port: 9113
+    targetPort: 9113
